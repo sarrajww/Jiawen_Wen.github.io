@@ -12,10 +12,13 @@ abstract: >-
   A key enzyme involved in polymethoxylated flavonoid biosynthesis was identified through an integrated multi-omics approach.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  -  Jiawen Wen
-  -  Yayu Wang
-  -  Xu Lu
-  -  Huimin Pan and others
+  -  Jiawen Wen*
+  -  Yayu Wang*
+  -  Xu Lu*
+  -  Huimin Pan* and others
+  -  Hong Wu#
+  -  E-hu Liu#
+  -  Huan Liu#
 links:
     paper:  https://www.nature.com/articles/s41467-024-48235-y
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
