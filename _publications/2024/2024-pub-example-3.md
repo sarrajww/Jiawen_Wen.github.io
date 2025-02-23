@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 
 abstract: >-
-  A key enzyme involved in polymethoxylated flavonoid biosynthesis was identified through a integrated multi-omics approach. $\LaTeX$ is supported. $a=b+c$.
+  A key enzyme involved in polymethoxylated flavonoid biosynthesis was identified through an integrated multi-omics approach. $\LaTeX$ is supported. $a=b+c$.
 cover:          /assets/images/covers/cover3.jpg
 authors:
   -  Jiawen Wen
