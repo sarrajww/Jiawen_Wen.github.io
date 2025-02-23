@@ -36,13 +36,13 @@ portrait_caption: >-
 
 education:
 - name: University of Florida
-  #logo: /assets/images/badges/UF_Social_circle.png
+  logo: /assets/images/badges/UF_Social_circle.png
   position: >- 
     Department of Plant Pathology <br/>
     Ph.D. Student
   date: Aug. 2022 - present
 - name: University of Chinese Academy of Sciences
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/PKU_red.png
   position: Master of Science, Genomics 
   date: Sep. 2019 - Jun. 2022
 
