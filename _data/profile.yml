@@ -1,6 +1,6 @@
 primary_name: "Jiawen Wen"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jiawen Wen"
 
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -22,12 +22,12 @@ orcid: https://orcid.org/0009-0008-1976-0698
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    A <a href="https://orcid.org/0009-0008-1976-0698" target="_blank">Jiawen Wen</a> iI am a Ph.D. student in Plant Pathology at University of Florida, where my research focuses on understanding and combating Huanglongbing (HLB), or citrus greening disease, one of the most devastating citrus diseases worldwide. Using an integrated multi-omics approach, I study the complex interactions between citrus plants and the bacterial pathogen Candidatus Liberibacter asiaticus (CLas).
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My current research employs cutting-edge genomics, transcriptomics, metabolomics and proteomics to unravel the molecular mechanisms of disease progression and host resistance. 
+    I'm particularly interested in identifying genetic factors that contribute to HLB tolerance in citrus varieties. 
+    Through comparative genomics and network analysis, I aim to develop novel strategies for improving citrus resistance to this devastating disease.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
