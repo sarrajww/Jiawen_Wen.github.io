@@ -1,17 +1,19 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Transgene-free genome editing of vegetatively propagated and perennial plant species in the T0 generation via a co-editing strategy"
+date:           2023-09-18 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Nature Plants"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  We developed a co-editing strategy using transient expression of cytosine base editor, Cas12a/CRISPR RNA, and GFP to achieve transgene-free genome editing in T0 generation plants.
+cover:          /assets/images/covers/coverNP.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Xiaoen Huang*
+- Hongge Jia*
+- Jin Xu
+- Yuanchun Wang
+- Jiawen Wen
+- Nian Wang#
 links:
-  Paper: https://www.cell.com
+  Paper: https://www.nature.com/articles/s41477-023-01520-y
 ---
