@@ -15,7 +15,15 @@ authors:
   -  Jiawen Wen*
   -  Yayu Wang*
   -  Xu Lu*
-  -  Huimin Pan* and others
+  -  Huimin Pan*
+  -  Dian Jin
+  -  Jialing Wen
+  -  Canzhi Jin
+  -  Sunil Kumar Sahu
+  -  Jianmu Su
+  -  Xinyue Luo
+  -  Xiaohuan Jin
+  -  Jiao Zhao
   -  Hong Wu#
   -  E-hu Liu#
   -  Huan Liu#
