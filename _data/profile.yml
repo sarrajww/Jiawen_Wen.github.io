@@ -17,12 +17,12 @@ gscholar: https://scholar.google.com/citations?user=ET_5xuIAAAAJ&hl=en  # This i
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-orcid: https://orcid.org/0009-0008-1976-0698
+#orcid: https://orcid.org/0009-0008-1976-0698
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://orcid.org/0009-0008-1976-0698" target="_blank">Jiawen Wen</a> I am a Ph.D. student in Plant Pathology at University of Florida, where my research focuses on understanding and combating Huanglongbing (HLB), or citrus greening disease, one of the most devastating citrus diseases worldwide. Using an integrated multi-omics approach, I study the complex interactions between citrus plants and the bacterial pathogen Candidatus Liberibacter asiaticus (CLas).
+    <a href="https://orcid.org/0009-0008-1976-0698" target="_blank">Jiawen Wen</a> I am a Ph.D. student in Plant Pathology at University of Florida, where my research focuses on understanding and combating Huanglongbing (HLB), or citrus greening disease, one of the most devastating citrus diseases worldwide. Using an integrated multi-omics approach, I study the complex interactions between citrus plants and the bacterial pathogen Candidatus Liberibacter asiaticus (CLas).
   </p>
   <p>
     My current research employs cutting-edge genomics, transcriptomics, metabolomics and proteomics to unravel the molecular mechanisms of disease progression and host resistance. 
