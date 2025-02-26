@@ -50,15 +50,15 @@ education:
   position: B.S. in Horticulture
   date: Sep. 2015 - Jun. 2019
 
- experience:
- - name: Horticultural Research Editorial Board
+ #experience:
+ #- name: Horticultural Research Editorial Board
    #logo: /assets/images/badges/
-   position: Editor Intern
-   date: Mar. 2020 - Nov. 2020
+ #  position: Editor Intern
+ #  date: Mar. 2020 - Nov. 2020
 
-awards:
-- name: Outstanding Graduate Award (Shandong Agricultural University)
-  date: 2018
+#awards:
+#- name: Outstanding Graduate Award (Shandong Agricultural University)
+#  date: 2018
 #- name: Award Name 1 
 #  date: 2021
 #- name: A quick brown fox jumps over the lazy dog and runs away award
