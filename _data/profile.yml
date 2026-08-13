@@ -4,7 +4,7 @@ navbar_name: "Jiawen Wen"
 
 positions:
 - logo: /assets/images/badges/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png  # Logo is optional
-  name: Ph.D. candidate at University of Florida
+  name: Ph.D. of Plant Pathology at University of Florida
 #- name: Position 2 without logo
 
 
@@ -22,7 +22,7 @@ gscholar: https://scholar.google.com/citations?user=ET_5xuIAAAAJ&hl=en  # This i
 short_bio_text_justify: false
 short_bio: >-
   <p>
-     I am a Ph.D. candidate in Plant Pathology at University of Florida, where my research focuses on understanding and combating Huanglongbing (HLB), or citrus greening disease, one of the most devastating citrus diseases worldwide. Using an integrated multi-omics approach, I study the complex interactions between citrus plants and the bacterial pathogen Candidatus Liberibacter asiaticus (CLas).
+     I am a Ph.D. in Plant Pathology at University of Florida, where my research focuses on understanding and combating Huanglongbing (HLB), or citrus greening disease, one of the most devastating citrus diseases worldwide. Using an integrated multi-omics approach, I study the complex interactions between citrus plants and the bacterial pathogen Candidatus Liberibacter asiaticus (CLas).
   </p>
   <p>
     My current research employs cutting-edge genomics, transcriptomics, metabolomics and proteomics to unravel the molecular mechanisms of disease progression and host resistance <a href="https://orcid.org/0009-0008-1976-0698" target="_blank">(orcid)</a>. 
@@ -39,8 +39,8 @@ education:
   logo: /assets/images/badges/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png
   position: >- 
     Department of Plant Pathology <br/>
-    Ph.D. Candidate
-  date: Aug. 2022 - present
+    Ph.D.
+  date: Aug. 2022 - Aug. 2026
 - name: University of Chinese Academy of Sciences
   logo: /assets/images/badges/UCAS.png
   position: Master of Science, Genomics 
